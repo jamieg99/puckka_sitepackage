@@ -1,0 +1,7 @@
+#
+# PageTS for Puckka
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:puckka/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:puckka/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:puckka/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:puckka/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">
